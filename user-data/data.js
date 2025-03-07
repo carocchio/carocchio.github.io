@@ -1,5 +1,5 @@
 export const bio = [
-  "Hello, I'm Vinay Somawat!",
+  "Hello, I'm Massimo D'Alema!",
   "<strong>Frontend Software Engineer</strong> with 4+ years of experience building scalable, user-focused web applications.",
   "Skilled in Angular, TypeScript, and performance optimization, I aim to leverage my expertise in delivering innovative solutions that drive measurable business outcomes.",
   "Passionate about mentoring, teamwork, and continuous improvement in engineering processes.",
@@ -73,7 +73,7 @@ export const experience = [
 ];
 
 export const trekking = [
-  "<strong>Kheerganga Trek</strong>, Himachal Pradesh (9,711 feet)",
+  "<strong>Featrual Trek</strong>,  (9,711 feet)",
   "<strong>Triund Trek</strong>, Himachal Pradesh (9,350 feet)",
   "<strong>Kedarkantha Trek</strong>, Uttarakhand (12,500 feet)",
   "<strong>Jalori Pass Trek</strong>, Himachal Pradesh (10,800 feet)",
